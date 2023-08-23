@@ -1,3 +1,5 @@
+package JavaTutorials;
+
 import java.io.*;
 public class Employee {
 
@@ -6,12 +8,12 @@ public class Employee {
     String designation;
     double salary;
 
-    // This is the constructor of the class Employee
+    // This is the constructor of the class JavaTutorials.Employee
     public Employee(String name) {
         this.name = name;
     }
 
-    // Assign the age of the Employee  to the variable age.
+    // Assign the age of the JavaTutorials.Employee  to the variable age.
     public void empAge(int empAge) {
         age = empAge;
     }
@@ -26,7 +28,7 @@ public class Employee {
         salary = empSalary;
     }
 
-    /* Print the Employee details */
+    /* Print the JavaTutorials.Employee details */
     public void printEmployee() {
         System.out.println("Name:"+ name );
         System.out.println("Age:" + age );

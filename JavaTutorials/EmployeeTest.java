@@ -1,4 +1,5 @@
-import java.io.*;
+package JavaTutorials;
+
 public class EmployeeTest {
 
     public static void main(String args[]) {

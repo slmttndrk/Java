@@ -1,3 +1,5 @@
+package JavaTutorials;
+
 /**
  * Each time a new object is created, at least one constructor will be invoked. The main rule of constructors
  * is that they should have the same name as the class. A class can have more than one constructor.
@@ -16,7 +18,7 @@ public class Puppy {
     }
 
     public int getAge( ) {
-        System.out.println("Puppy's age is :" + puppyAge );
+        System.out.println("JavaTutorials.Puppy's age is :" + puppyAge );
         return puppyAge;
     }
 

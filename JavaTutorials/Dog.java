@@ -1,4 +1,4 @@
-/*
+package JavaTutorials;/*
 * Local variables − Variables defined inside methods, constructors or blocks are called local variables.
 * The variable will be declared and initialized within the method and the variable will be destroyed when
 * the method has completed.
