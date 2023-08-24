@@ -11,7 +11,5 @@ Q
 !JavaTutorials/FreshJuiceTest.java,e\3\e3a1d26a638b8d71ef8d04d97244880955ad7cae
 U
 %JavaTutorials/MyFirstJavaProgram.java,3\e\3e80116f60ad1f017a766c505963d3246fd1e60e
-M
-LeetCodeSolutions/TwoSum.java,8\4\84d783caf7fb8de2963ce464d4d7a2ee4289d8e0
 H
 JavaTutorials/Puppy.java,8\d\8db74574fd992463356bbab3573116c183c6d8b0
