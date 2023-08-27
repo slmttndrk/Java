@@ -37,3 +37,5 @@ X
 (JavaTutorials/ParsingStringIntoDate.java,b\f\bf38248cc6cfe0e31b86315833a0dff69ce5a6b3
 Q
 !JavaTutorials/DateFormatting.java,2\f\2f24da5b9bde0ba295b61200394508457f31292a
+W
+'JavaTutorials/MeasuringElapsedTime.java,9\3\93b9ba9cc964ab6ab1d01409eddfce02a88659a3
