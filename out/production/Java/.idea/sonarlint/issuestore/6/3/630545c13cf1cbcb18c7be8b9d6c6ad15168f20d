@@ -1,0 +1,10 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Found value: " 3 times.(Â·şÿÿÿÿ8Ïíö¼£1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“€ôá
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8úíö¼£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â·şÿÿÿÿ8îö¼£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óŸÓ8ƒîö¼£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ˆÄŸ8„îö¼£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È¨şøÿÿÿÿ8…îö¼£1
