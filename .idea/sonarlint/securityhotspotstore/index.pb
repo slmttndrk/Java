@@ -39,3 +39,21 @@ V
 &JavaTutorials/SleepingForSomeTime.java,b\8\b8482dc6d5b85277cfbbd76b13e12d09be9953e8
 W
 'JavaTutorials/MeasuringElapsedTime.java,9\3\93b9ba9cc964ab6ab1d01409eddfce02a88659a3
+^
+.LeetCodeSolutions/MedianOfTwoSortedArrays.java,a\9\a9392e896dfc29d5898b0098e7418419dd6be70b
+R
+"JavaTutorials/PatternMatching.java,6\3\630545c13cf1cbcb18c7be8b9d6c6ad15168f20d
+P
+ JavaTutorials/RegexMatching.java,f\4\f45741a71f8ed22d00f6280780124c3e1f69c6b0
+V
+&JavaTutorials/MatchesAndLookingAt.java,d\1\d16d6712dbb4d2aed04e78e009173e8d52654b41
+N
+JavaTutorials/PassByValue.java,6\1\6131a491daa8e89211a274f7d9c11d01f892b551
+T
+$JavaTutorials/MethodOverloading.java,d\9\d9f61e3b79ed8cf16ba2dc6ed943bc86af540d13
+W
+'JavaTutorials/CommandLineArguments.java,2\5\252293bebd04baa7505a24be65bc00ee4f4d5076
+T
+$JavaTutorials/VariableArguments.java,f\e\fed939b25fab0e2b770799456c604cf31ad4d2c2
+K
+JavaTutorials/Finalize.java,2\0\20933b76c5e1e0797b88b6f2ff6a043d8c653976
