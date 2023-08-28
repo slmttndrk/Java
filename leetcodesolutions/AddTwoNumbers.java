@@ -1,4 +1,4 @@
-package LeetCodeSolutions;
+package leetcodesolutions;
 
 //Definition for singly-linked list.
 
