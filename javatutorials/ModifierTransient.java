@@ -10,5 +10,6 @@ package javatutorials;
 
 public class ModifierTransient {
     public transient int limit = 55;   // will not persist
+
     public int b;   // will persist
 }
