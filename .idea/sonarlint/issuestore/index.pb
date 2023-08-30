@@ -89,3 +89,21 @@ T
 $leetcodesolutions/AddTwoNumbers.java,c\3\c3250f2d42d4d2dd856f8b093bf9c81834577ad1
 b
 2leetcodesolutions/LongestPalindromicSubstring.java,a\e\aeeaf76fe01c5f35c68e0638600d7f0c364465cf
+S
+#javatutorials/InnerOuterClass2.java,8\0\803be4015bb2439484402fa9421c2687825cc6f8
+]
+-javatutorials/InnerOuterClassMethodLocal.java,8\b\8bd24fde2b18c1cd6b25ddcc67541745e7edac21
+[
++javatutorials/InnerOuterClassAnonymous.java,7\b\7bf696a9cb8397bbaf6aa2d0f0a9a58b1a683769
+^
+.javatutorials/InnerOuterClassStaticNested.java,8\e\8e92c70758cd3fef405c2886a1267c611478a495
+R
+"javatutorials/InnerOuterClass.java,c\f\cf21fde5c0d383cdaa52fdd7d269bb66bde54796
+\
+,javatutorials/InnerOuterClassAnonymous2.java,4\9\49f3cb2463370e5cc60b8cc0d9a109cf05034d5c
+S
+#javatutorials/SingletonClassic.java,b\0\b0374f7809f61d93bcd76e3c05d0054a523453d0
+L
+javatutorials/Singleton.java,3\e\3e043e16a6b1d86b715fc3f8471713e22ce7c985
+P
+ javatutorials/SingletonDemo.java,9\2\9291e130dfc4294ba5fb0f07f91a937e585c845e
