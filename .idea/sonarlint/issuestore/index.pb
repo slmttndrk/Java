@@ -57,10 +57,6 @@ K
 JavaTutorials/Finalize.java,2\0\20933b76c5e1e0797b88b6f2ff6a043d8c653976
 T
 $JavaTutorials/VariableArguments.java,f\e\fed939b25fab0e2b770799456c604cf31ad4d2c2
-N
-javatutorials/ByteStreams.java,6\2\6272a807c91e8f3e78f015fe3d937f820eb1f3df
-U
-%javatutorials/InputOutputStreams.java,9\0\90bc37f07f96137de6c642dc2a583aa4a068c0b4
 R
 "javatutorials/CreateDirectory.java,a\1\a17d1ce2786c35d3a9e189036c53219d3cb7b382
 P
