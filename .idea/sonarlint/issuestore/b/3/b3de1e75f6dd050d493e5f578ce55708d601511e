@@ -1,0 +1,10 @@
+
+^
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ıÕ¶T8¸ğÙ¤1
+W
+java:S1854#"5Remove this useless assignment to local variable "a".(õîşóşÿÿÿÿ8²êğÙ¤1
+H
+java:S1481#"&Remove this unused "a" local variable.(õîşóşÿÿÿÿ8¶êğÙ¤1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(É¥Í…üÿÿÿÿ8·êğÙ¤1
+T	java:S106("9Replace this use of System.out or System.err by a logger.(•ƒÍ;8·êğÙ¤1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(×öƒ·8·êğÙ¤1
