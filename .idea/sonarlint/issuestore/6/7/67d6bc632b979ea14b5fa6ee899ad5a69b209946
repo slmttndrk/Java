@@ -1,0 +1,13 @@
+
+9
+java:S1643*"Use a StringBuilder instead.(„ÑìÅ8øàïŠ¤1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¡€ğûÿÿÿÿ8üâïŠ¤1
+A
+java:S1659"Declare "r" on a separate line.(ŠòÉùÿÿÿÿ8ıâïŠ¤1
+D
+java:S1125"'Remove the unnecessary boolean literal.(“Ä·ã8ãïŠ¤1
+D
+java:S1125"'Remove the unnecessary boolean literal.(†³Ø8ãïŠ¤1
+X
+java:S20945"BRemove this empty class, write its code or make it an "interface".(›„ıà
