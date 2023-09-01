@@ -153,3 +153,11 @@ T
 $javatutorials/KeywordImplements.java,b\b\bb2a7552bc4184c7e9cc42bab7fbab4a1faef35b
 T
 $javatutorials/KeywordInstanceOf.java,5\8\580050f420f064aede94c751a9eaa57a42f833d9
+S
+#javatutorials/RelationshipHasA.java,b\9\b9f639b847b2a191ade16391640b4d265e820660
+V
+&javatutorials/OverridingWithSuper.java,3\5\35413b3675e5fe14f35f488be736b05ee065bcf6
+S
+#javatutorials/OverridingSample.java,f\2\f26d0389875d545839b6d9fb1c5abc8e6f18ef12
+U
+%leetcodesolutions/ReverseInteger.java,d\e\debb670df4877202329f7ae9bb58a301d924cbd3
