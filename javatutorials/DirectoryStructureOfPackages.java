@@ -53,7 +53,7 @@ package javatutorials;
  * In UNIX → % unset CLASSPATH; export CLASSPATH
 
  * To set the CLASSPATH variable:
- * In Windows → set CLASSPATH = C:\users\jack\java\classes
+ * In Windows → set CLASSPATH = C:\ users\ jack\ java\ classes
  * In UNIX → % CLASSPATH = /home/jack/java/classes; export CLASSPATH
 
  * */
