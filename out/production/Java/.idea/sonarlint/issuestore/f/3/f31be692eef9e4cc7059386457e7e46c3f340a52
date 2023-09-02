@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(øï8—¤½¾¤1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(è‰½Ôùÿÿÿÿ8š¤½¾¤1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(›³äğøÿÿÿÿ8›¤½¾¤1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö„ßò8›¤½¾¤1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÈãœ8œ¤½¾¤1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆæê–8œ¤½¾¤1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¼§Œ8œ¤½¾¤1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„Ô§ó8¤½¾¤1

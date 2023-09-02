@@ -1,5 +1,4 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“€ôá
 k
 java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ç¸Áœ8ïŽËè£1
 L

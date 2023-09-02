@@ -1,0 +1,9 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë8ÀŠŒ¿¤1
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8ËŸŒ¿¤1
+L
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ8½½‹¿¤1
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8˜ì‹¿¤1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(›²ñ†üÿÿÿÿ8½½‹¿¤1
