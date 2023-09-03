@@ -117,8 +117,6 @@ P
  javatutorials/ModifierFinal.java,f\c\fcc21c105d5240ab61978221edd8c568605f7dd2
 S
 #javatutorials/ModifierAbstract.java,b\4\b4e8685ea7f2836b09bdc772ae587fa05f47145b
-W
-'javatutorials/ModifierSynchronized.java,1\4\14796c37bbf50d1a4acff93085ccac8d849a5310
 T
 $javatutorials/ModifierTransient.java,2\c\2c302f0caed3b742e16a9af323d7eb54c213a235
 S
