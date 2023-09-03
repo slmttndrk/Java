@@ -1,0 +1,73 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(Æ•»é8òÊ”»¥1
+L
+java:S3740"/Provide the parametrized type for this generic.(Æ•»é8óÊ”»¥1
+Q
+java:S37408"/Provide the parametrized type for this generic.(±­á¨ÿÿÿÿÿ8…ñ–»¥1
+u
+java:S1192%"SDefine a constant instead of duplicating this literal "Current capacity: " 3 times.(»ˆ½ÿÿÿÿÿ8Ÿ­”»¥1
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Æ•»é8†Ë”»¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¾—ê8±­”»¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µŠŞ8±­”»¥1
+C
+java:S2129"!Remove this "Integer" constructor(÷ÖÔÑùÿÿÿÿ8±­»¥1
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(÷ÖÔÑùÿÿÿÿ8±­»¥1
+C
+java:S2129"!Remove this "Integer" constructor(á’ıÚşÿÿÿÿ8±­»¥1
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(á’ıÚşÿÿÿÿ8±­»¥1
+C
+java:S2129 "!Remove this "Integer" constructor(š¯§èùÿÿÿÿ8²­»¥1
+Q
+java:S1874 "/Remove this use of "Integer"; it is deprecated.(š¯§èùÿÿÿÿ8²­»¥1
+>
+java:S2129!"!Remove this "Integer" constructor(Äš‰Ã8²­»¥1
+L
+java:S1874!"/Remove this use of "Integer"; it is deprecated.(Äš‰Ã8²­»¥1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(•¨¨8º­”»¥1
+=
+java:S2129$" Remove this "Double" constructor(Èíä€8³­»¥1
+K
+java:S1874$".Remove this use of "Double"; it is deprecated.(Èíä€8³­»¥1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(»ˆ½ÿÿÿÿÿ8»­”»¥1
+B
+java:S2129'" Remove this "Double" constructor(Óñà€úÿÿÿÿ8´­»¥1
+P
+java:S1874'".Remove this use of "Double"; it is deprecated.(Óñà€úÿÿÿÿ8´­»¥1
+>
+java:S2129("!Remove this "Integer" constructor(‰ƒ¯Ç8µ­»¥1
+L
+java:S1874("/Remove this use of "Integer"; it is deprecated.(‰ƒ¯Ç8µ­»¥1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(»ˆ½ÿÿÿÿÿ8¼­”»¥1
+O
+java:S1874+"-Remove this use of "Float"; it is deprecated.(ç÷¯üÿÿÿÿ8µ­»¥1
+C
+java:S2129,"!Remove this "Integer" constructor(ÿ’ğÓúÿÿÿÿ8µ­»¥1
+Q
+java:S1874,"/Remove this use of "Integer"; it is deprecated.(ÿ’ğÓúÿÿÿÿ8µ­»¥1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(»ˆ½ÿÿÿÿÿ8¾­”»¥1
+>
+java:S2129/"!Remove this "Integer" constructor(–Ûá‚8¶­»¥1
+L
+java:S1874/"/Remove this use of "Integer"; it is deprecated.(–Ûá‚8¶­»¥1
+C
+java:S21290"!Remove this "Integer" constructor(Ò»£öûÿÿÿÿ8¶­»¥1
+Q
+java:S18740"/Remove this use of "Integer"; it is deprecated.(Ò»£öûÿÿÿÿ8¶­»¥1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Üİ¬¼8À­”»¥1
+G
+java:S19051"*Remove this unnecessary cast to "Integer".(Üİ¬¼8·­»¥1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(×ñ»»8À­”»¥1
+G
+java:S19052"*Remove this unnecessary cast to "Integer".(×ñ»»8·­»¥1
+>
+java:S21294"!Remove this "Integer" constructor(ïõË8·­»¥1
+L
+java:S18744"/Remove this use of "Integer"; it is deprecated.(ïõË8·­»¥1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(…ì’8Á­”»¥1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(’Ù¼8Â­”»¥1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ù•–îùÿÿÿÿ8Â­”»¥1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ã­”»¥1
