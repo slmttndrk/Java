@@ -179,8 +179,6 @@ K
 javatutorials/Employee.java,4\2\4275dd21f85c17a5ffa60189b1c598b6c3bf796c
 P
  javatutorials/KeywordImport.java,a\b\ab4a84eaccc79add4ff107116bc28aaf6799ba79
-[
-+javatutorials/DataStructureEnumeration.java,f\f\ff4f345773bc4dcb931c84b57807b94acf133149
 _
 /javatutorials/DirectoryStructureOfPackages.java,1\d\1de4079202270df0dfd6c2cffc186b6ce1bd7c11
 V
