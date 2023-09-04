@@ -187,3 +187,13 @@ V
 &javatutorials/DataStructureBitset.java,4\f\4fab61df7a63e1325367d50764b6b5fbd7a48dbf
 V
 &javatutorials/DataStructureVector.java,b\a\ba4a5aea9740bc6a97b6701721af212b77709755
+U
+%javatutorials/DataStructureStack.java,3\c\3c63630113bf627cfdf4f191421bff59d96cc805
+Z
+*javatutorials/DataStructureDictionary.java,a\5\a52c78e969d428e8aa2fc4ae5afe88be766c6860
+W
+'javatutorials/ModifierSynchronized.java,1\4\14796c37bbf50d1a4acff93085ccac8d849a5310
+Y
+)javatutorials/DataStructureHashtable.java,f\f\ffff9b1b828421359dff53baf8c4323d4fc13114
+Z
+*javatutorials/DataStructureProperties.java,b\7\b72086f47e36fcd0303f1ff4d1e96c817983c495
