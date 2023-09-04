@@ -1,0 +1,28 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ñ•¢Øüÿÿÿÿ8¹ìÇÔ¥1
+Q
+java:S3740"/Provide the parametrized type for this generic.(èˆºİùÿÿÿÿ8ºìÇÔ¥1
+L
+java:S3740"/Provide the parametrized type for this generic.(†´æ¥8¦ÏÈÔ¥1
+L
+java:S3740"/Provide the parametrized type for this generic.(†´æ¥8¦ÏÈÔ¥1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "stack: " 3 times.(Î«é÷8ªÏÈÔ¥1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ñ•¢Øüÿÿÿÿ8ÊìÇÔ¥1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(èˆºİùÿÿÿÿ8ÌÏÈÔ¥1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†´æ¥8ÍÏÈÔ¥1
+C
+java:S2129"!Remove this "Integer" constructor(“À‚Åûÿÿÿÿ8ÑÏÈÔ¥1
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(“À‚Åûÿÿÿÿ8ÚÏÈÔ¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Óùø8ºĞÇÔ¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î«é÷8¾ĞÇÔ¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®•¡’üÿÿÿÿ8İÏÈÔ¥1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ßÏÈÔ¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î«é÷8ßÏÈÔ¥1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Î«é÷8áÏÈÔ¥1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(àÃ‘8åÏÈÔ¥1
