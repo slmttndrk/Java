@@ -1,0 +1,17 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ΰ΄8‚ω”¦1
+L
+java:S3740"/Provide the parametrized type for this generic.(€πω8‚ω”¦1
+E
+java:S1604"(Make this anonymous inner class a lambda(‹©ζ8έª”¦1
+€
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ϋΊφÿÿÿÿÿ8ςª”¦1
+J	java:S108!")Either remove or fill this block of code.(®ϋΊφÿÿÿÿÿ8σª”¦1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(“θÒϋÿÿÿÿ8σª”¦1
+q
+java:S1215$"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Μ°¬“8τª”¦1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ΒΝΉύÿÿÿÿ8φª”¦1
+€
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ϋΊφÿÿÿÿÿ8φª”¦1
+J	java:S108-")Either remove or fill this block of code.(®ϋΊφÿÿÿÿÿ8φª”¦1
