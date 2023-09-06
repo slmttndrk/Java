@@ -1,4 +1,4 @@
-package leetcodesolutions;
+package javatutorials;
 
 import java.io.*;
 import java.net.Socket;
@@ -41,6 +41,8 @@ import java.net.Socket;
  * InetAddress Class Methods represents an Internet Protocol (IP) address.
 
  * A client program that connects to a server by using a socket and sends a greeting, and then waits for a response.
+
+ * !!!REMEMBER -> To give CL arguments you should Run>>Edit Config>>Add new config>>Put program argumments
  * */
 
 public class NetworkingSocketProgrammingClient {

@@ -18,6 +18,8 @@ import java.net.SocketTimeoutException;
 
  * A server application that uses the Socket class to listen for clients on a port number specified by a
    command-line argument.
+
+ * !!!REMEMBER -> To give CL arguments you should Run>>Edit Config>>Add new config>>Put program argumments
  * */
 
 public class NetworkingSocketProgrammingServer extends Thread {
