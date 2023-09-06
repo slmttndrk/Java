@@ -235,3 +235,9 @@ e
 5javatutorials/CollectionsIteratorAndListIterator.java,9\6\967a5f5af8f1574f13eb25264e52a04be2295dc4
 X
 (javatutorials/CollectionsComparable.java,b\a\bab1d2c07538149d9253f63c5908644d3d3f9a38
+X
+(javatutorials/CollectionsComparator.java,7\d\7d0f71aef7d1d6959a4184d5a0b3d828aca25fdf
+Q
+!javatutorials/GenericMethods.java,3\8\384e80b903b3eca336f182f0e0421d93bfafce95
+j
+:javatutorials/GenericMethodsWithBoundedTypeParameters.java,d\0\d0fb397c486099e6cfab838db55794a907c49721

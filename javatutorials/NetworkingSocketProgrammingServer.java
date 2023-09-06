@@ -1,4 +1,4 @@
-package leetcodesolutions;
+package javatutorials;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
