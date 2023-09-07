@@ -241,3 +241,15 @@ Q
 !javatutorials/GenericMethods.java,3\8\384e80b903b3eca336f182f0e0421d93bfafce95
 j
 :javatutorials/GenericMethodsWithBoundedTypeParameters.java,d\0\d0fb397c486099e6cfab838db55794a907c49721
+_
+/javatutorials/SerializationDeserialization.java,7\8\7886c93f1498e83fd893819a2dc7de75e63c689c
+V
+&leetcodesolutions/StringToInteger.java,9\2\921152cf089410f28160bd1355ecc79f27c19d2f
+Q
+!javatutorials/GenericClasses.java,f\7\f7f9af32c29a7d1e1df266dadcf6bba25ad854f8
+d
+4javatutorials/NetworkingSocketProgrammingClient.java,2\f\2faf028eca1d09b82c50599eb2b3beae9ce42ca7
+d
+4javatutorials/NetworkingSocketProgrammingServer.java,c\2\c2218634c684436f8b628d53a542ffda542053fb
+Z
+*javatutorials/NetworkingUrlProcessing.java,1\3\13aabb32f9e18245c0d88ab98afb003b094151c2

@@ -1,0 +1,26 @@
+
+m
+java:S1104#"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¸§«¦1
+u
+java:S1104$"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8¹§«¦1
+q
+java:S1104%"OMake SSN a static final constant or non-public and provide accessors if needed.(®öüüÿÿÿÿÿ8¹§«¦1
+t
+java:S1104&"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ8¹§«¦1
+q
+java:S2095D"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8¬±º«¦1
+j
+java:S2095C"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¯×†8Õ¹Ë«¦1
+r
+java:S20957"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8½§«¦1
+p
+java:S20956"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Š©öúÿÿÿÿ8Õ¹Ë«¦1
+o	java:S116%"NRename this field "SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®öüüÿÿÿÿÿ8Ö¹Ë«¦1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆ²½Ü8³±º«¦1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Â®Ë…8³±º«¦1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(·ÚÒ¥8³±º«¦1
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÏÒ†8³±º«¦1
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(·¯²–8ğ¹Ë«¦1
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Î÷œ¥8ğ¹Ë«¦1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(Âå®Ê8ğ¹Ë«¦1
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(ôÊ–×8ñ¹Ë«¦1
