@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äÁôÐ8Îÿ‡Š§1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…½··8Îÿ‡Š§1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Îÿ‡Š§1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ä³ÿh8Îÿ‡Š§1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ŸôÖàüÿÿÿÿ8Îÿ‡Š§1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(âßÔÐ8Îÿ‡Š§1
+e
+java:S3551&"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8Úÿ‡Š§1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ª–±©8Úÿ‡Š§1
+2
+java:S2438)""this" is a "Thread".(ª¯Ö÷8Úÿ‡Š§1

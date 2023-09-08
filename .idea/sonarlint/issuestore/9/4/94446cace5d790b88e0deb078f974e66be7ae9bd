@@ -1,0 +1,15 @@
+
+i	java:S116"MRename this field "PD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¤½š8ºëÇ‹§1
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(“–ış8¾ëÇ‹§1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(âßÔĞ8ÂëÇ‹§1
+V
+java:S1161'":Add the "@Override" annotation above this method signature(ú¡­,8ÂëÇ‹§1
+e
+java:S3551'"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8ÂëÇ‹§1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ª–±©8ÂëÇ‹§1
+2
+java:S2438*""this" is a "Thread".(ª¯Ö÷8ÃëÇ‹§1
+{
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8İğÍ‹§1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ŠøüÑ8ŞÊ‹§1

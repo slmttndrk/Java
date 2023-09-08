@@ -1,0 +1,9 @@
+
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(äÁôĞ8½òõ‰§1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(…½··8Èòõ‰§1
+{
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Éòõ‰§1
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(Ä³ÿh8Íòõ‰§1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ŸôÖàüÿÿÿÿ8Îòõ‰§1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(âßÔĞ8Ïòõ‰§1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ª–±©8Ğòõ‰§1
