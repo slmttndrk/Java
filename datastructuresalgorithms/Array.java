@@ -1,6 +1,18 @@
 package datastructuresalgorithms;
 
 /***
+ * Properties:
+ *     - It is a derived data type, compose of a collection of various primitive data types
+ *     - Elements of an array are stored in contiguous blocks in prime memory
+ *     - The name of the array stored the base address of the array. It acts as a pointer to the memory block where the first element has been stored
+ *
+ * Operations:
+ *     - Insertion
+ *     - Deletion
+ *     - Updating
+ *     - Searching
+ *     - Sorting
+ *
  * Applications:
  *     - Longest consecutive subsequence
  *
