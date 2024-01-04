@@ -156,8 +156,6 @@ V
 S
 #javatutorials/OverridingSample.java,f\2\f26d0389875d545839b6d9fb1c5abc8e6f18ef12
 U
-%leetcodesolutions/ReverseInteger.java,d\e\debb670df4877202329f7ae9bb58a301d924cbd3
-U
 %javatutorials/PolymorphismSample.java,a\7\a728507cd3d3ee74714937ca27aa324c8b50b148
 Q
 !javatutorials/VirtualMethods.java,c\7\c7cc39b480ad690d66343b837720aaaada8138a0
@@ -265,3 +263,11 @@ m
 =javatutorials/MultiThreadingThreadWithoutSynchronization.java,f\4\f40336419f0881fc2ed27b70a45576787cb4bc1e
 j
 :javatutorials/MultiThreadingThreadWithSynchronization.java,9\4\94446cace5d790b88e0deb078f974e66be7ae9bd
+^
+.javatutorials/MultiThreadingThreadControl.java,a\c\ac1797f389d89214ee8c51446cfe9ebef691b8d9
+a
+1javatutorials/MultiThreadingDeadlockSolution.java,6\2\625e1993331030625b0a8798b842c3978ca7d4ee
+`
+0javatutorials/MultiThreadingDeadlockProblem.java,7\c\7c5df55d219ddc57b0dba7812653f58fc2e8de8c
+i
+9javatutorials/MultiThreadingInterthreadCommunication.java,d\4\d4b3c4727998406d63ee2f8d0d734122732f0422
