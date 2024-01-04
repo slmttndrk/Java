@@ -271,3 +271,9 @@ a
 0javatutorials/MultiThreadingDeadlockProblem.java,7\c\7c5df55d219ddc57b0dba7812653f58fc2e8de8c
 i
 9javatutorials/MultiThreadingInterthreadCommunication.java,d\4\d4b3c4727998406d63ee2f8d0d734122732f0422
+J
+javatutorials/Javadoc.java,3\a\3a5c09bf0fbbc12fb9ca3adf95ed9c48cb521b12
+U
+%leetcodesolutions/ReverseInteger.java,d\e\debb670df4877202329f7ae9bb58a301d924cbd3
+Z
+*datastructuresalgorithms/LinearSearch.java,2\5\2588b2b137a4a23b58b1562fd9aa2865ea6a2b6b
