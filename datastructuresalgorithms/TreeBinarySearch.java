@@ -205,6 +205,20 @@ class BinarySearchTree {
             }
         }
     }
+
+    public int countTotalNodes() {
+        return countTotalNodes(root);
+    }
+
+    private int countTotalNodes(BSTNode root) {
+        if (root == null)
+            return 0;
+
+        int counter = 1;
+        counter += countTotalNodes(root.left);
+        counter += countTotalNodes(root.right);
+        return counter;
+    }
 }
 
 public class TreeBinarySearch {
@@ -243,5 +257,8 @@ public class TreeBinarySearch {
         // Search for a value in the BST
         int searchValue = 40;
         System.out.println("\nSearch for " + searchValue + ": " + bst.search(searchValue));
+
+        // Count total nodes in the BST
+        System.out.println("\nTotal number of nodes: " + bst.countTotalNodes());
     }
 }
