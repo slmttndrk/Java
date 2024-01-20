@@ -1,4 +1,4 @@
-package datastructuresalgorithms;
+package datastructuresalgorithms.datastructures;
 
 /***
  * A data structure is a specialized format to organizing, processing, retrieving and storing data.
