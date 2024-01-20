@@ -277,3 +277,17 @@ Z
 *datastructuresalgorithms/LinearSearch.java,2\5\2588b2b137a4a23b58b1562fd9aa2865ea6a2b6b
 J
 javatutorials/Javadoc.java,3\a\3a5c09bf0fbbc12fb9ca3adf95ed9c48cb521b12
+S
+#datastructuresalgorithms/Stack.java,5\e\5ed26958a9a79fd965cb351127c04b349e13a938
+S
+#datastructuresalgorithms/Array.java,f\6\f6138cf206e36aa7cfd7137ca3b0732f62d2200d
+[
++datastructuresalgorithms/DataStructure.java,d\b\db7b245a22a7d8317cbc8d68b2ade920966be4ec
+X
+(datastructuresalgorithms/LinkedList.java,6\6\667cb1339e8f24881c0afaf256017bcc73ffda78
+S
+#datastructuresalgorithms/Deque.java,f\f\ff24feafe6eae693c73c8e866b4fbcc36bed7231
+S
+#datastructuresalgorithms/Queue.java,7\d\7d1309afe1717a6587be36f7570fbd4518bff3ba
+b
+2datastructuresalgorithms/CollectionsFramework.java,a\3\a3214a37fcc6a3b439e155139c25efd57ee37515
