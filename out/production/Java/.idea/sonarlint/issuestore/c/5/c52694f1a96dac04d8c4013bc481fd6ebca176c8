@@ -1,0 +1,6 @@
+
+m	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô›Ö#8ÜÑì¼Ò1
+_
+java:S2094Q"BRemove this empty class, write its code or make it an "interface".(ÔÉñõ8ÎÓŠ¼Ò1
+|
+java:S3012‹"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ï£¤»ÿÿÿÿÿ8×Òì¼Ò1
