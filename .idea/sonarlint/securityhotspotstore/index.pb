@@ -281,8 +281,6 @@ h
 8datastructuresalgorithms/datastructures/TreeGeneric.java,1\2\120c4e2af83a40c621051e7222a27fb70d491108
 d
 4datastructuresalgorithms/datastructures/TreeAVL.java,1\7\179b92bc4d1fec51c56e07832da7e2cfa6fbd4f2
-e
-5datastructuresalgorithms/datastructures/TreeHeap.java,b\0\b0d07c41e1ce6075d43b3617b8b9969907c9b2d0
 b
 2datastructuresalgorithms/datastructures/Graph.java,e\9\e91499f5ad941257c14486e2078bc9aa91425039
 a

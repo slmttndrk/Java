@@ -281,8 +281,6 @@ a
 1datastructuresalgorithms/datastructures/Trie.java,a\6\a6a7bbf90b192bfc8ca08bf92b3d7c88eefc8a8d
 b
 2datastructuresalgorithms/datastructures/Graph.java,e\9\e91499f5ad941257c14486e2078bc9aa91425039
-e
-5datastructuresalgorithms/datastructures/TreeHeap.java,b\0\b0d07c41e1ce6075d43b3617b8b9969907c9b2d0
 d
 4datastructuresalgorithms/datastructures/TreeAVL.java,1\7\179b92bc4d1fec51c56e07832da7e2cfa6fbd4f2
 h
